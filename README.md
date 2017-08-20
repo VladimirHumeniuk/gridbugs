@@ -1,4 +1,4 @@
-# GridBugs
+# GridBug
 
 Inspired by [Flexbugs](https://github.com/philipwalton/flexbugs) this list aims to be a community curated list of CSS Grid Layout bugs, incomplete implementations and interop issues. [Grid shipped into browsers](https://gridbyexample.com/browsers) in a highly interoperable state, however there are a few issues - let's document any we find here.
 
