@@ -351,7 +351,7 @@ Firefox and Edge (Preview) resolve the percentage margins/paddings on items agai
     Chrome<br>
     Webkit
     </td>
-    <td><href="https://bugs.chromium.org/p/chromium/issues/detail?id=755994">Chrome #755994</a></td>
+    <td><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=755994">Chrome #755994</a></td>
   </tr>
 </table>
 
