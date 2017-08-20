@@ -327,7 +327,7 @@ Thanks to everyone who helped to isolate these issues [here](https://github.com/
     Firefox &amp; Edge match<br>
     Chrome &amp Webkit match
     </td>
-    <td><href="https://bugs.chromium.org/p/chromium/issues/detail?id=229568">Chrome #229568</a></td>
+    <td><a href="https://bugs.chromium.org/p/chromium/issues/detail?id=229568">Chrome #229568</a></td>
   </tr>
 </table>
 
