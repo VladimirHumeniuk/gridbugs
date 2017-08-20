@@ -365,6 +365,10 @@ The workaround for this is to use `justify-content: start` or `justify-content: 
 
 Gridbugs is maintained by [@rachelandrew](https://twitter.com/rachelandrew) and was heavily inspired by the excellent [Flexbugs](https://github.com/philipwalton/flexbugs). 
 
+## Translates
+
+> <a href="https://github.com/VladimirHumeniuk/gridbugs-ru">Russian</a>
+
 ## Contributing
 
 In the first instance [raise an Issue](https://github.com/rachelandrew/gridbugs/issues), include a Reduced Test Case that demonstrates the problem clearly. If you are aware of a workaround for the problem, add that too.
